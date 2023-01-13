@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573134903 source:d:\my only\study projects\programming in c++\a10_p3\city.cpp
+	<iostream>
+	"City.h"
+
+1573134521 d:\my only\study projects\programming in c++\a10_p3\city.h
+	<string>
+
+1573134786 source:d:\my only\study projects\programming in c++\a10_p3\testcity.cpp
+	<iostream>
+	<cstdlib>
+	"City.h"
+

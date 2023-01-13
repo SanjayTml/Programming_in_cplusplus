@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573551174 source:d:\my only\study projects\programming in c++\a11_1\box.cpp
+	<cmath>
+	<iostream>
+	"Box.h"
+
+1573550968 d:\my only\study projects\programming in c++\a11_1\box.h
+
+1573551274 source:d:\my only\study projects\programming in c++\a11_1\testbox.cpp
+	<iostream>
+	"Box.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573137856 source:d:\my only\study projects\programming in c++\a10_p4\person.cpp
+	<iostream>
+	"Person.h"
+
+1573137213 d:\my only\study projects\programming in c++\a10_p4\person.h
+	<string>
+
