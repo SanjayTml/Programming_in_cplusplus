@@ -1,0 +1,13 @@
+By: Sanjay Timilsena
+CH-230-A
+
+a) The errors after removing or commenting out the 'using namespace std;' are regarding the identification of used
+methods/objects that are inside the std library of cpp. The program cannot identify the prototype and definition
+of the methods/objects like 'string', 'cout', 'cin' in absence of properly defining them as the method of std cpp
+library as 'std::string', 'std::cout', 'std::cin'.
+
+b) The errors after removing the 'Critter::' prefix from one of the methods in the file Critter.cpp are because
+the program couldn't identify the objects and methods of that particular method inside the Critter class.
+
+These errors can be fixed by adding 'std::' prefix for every std library functions/methods and adding 'Critter::'
+prefix for every method inside of Critter class.
